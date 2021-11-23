@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "npm-cli": "^0.1.0",
+    "unsupported": "^1.1.0"
+  }
+}
